@@ -1,1 +1,1 @@
-# JavascriptExamples
+# JavasscriptFancyCalculator
